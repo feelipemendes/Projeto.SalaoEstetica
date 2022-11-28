@@ -5,3 +5,5 @@ Projeto para criação de agenda para salão de estética
 	- Cadastro de Clientes (Id, Nome, Telefone, Endereço, Dt Aniversario)
 	- Cadastro de Procedimentos (Id, Nome, Descrição, Preço, Duração)
 	- Cadastro de Marcação (Id, Cliente, Procedimento, Data, Horário)
+
+# Tech - Asp.Net Core, SQL Server, EF
